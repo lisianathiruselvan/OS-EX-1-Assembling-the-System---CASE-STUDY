@@ -18,7 +18,6 @@ STEPS:
 
 4.Install RAM (Random Access Memory): Align the notch on the RAM stick with the slot on the motherboard.
 
-
 ![268161503-57a4758a-9962-49b6-8067-fe893690ed6e](https://github.com/lisianathiruselvan/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119389971/1ebe3361-53ee-4bba-9338-827626cfbabf)
 
 5.Install the GPU (Graphics Processing Unit): Align the GPU with the PCIe slot on the motherboard.
