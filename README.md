@@ -2,8 +2,7 @@
 
 AIM:To assemble the system. ``
 
-STEPS:
-1.Prepare your workspace: Choose a clean, well-lit, and static-free area to work in. Place the motherboard on a non-conductive surface like its anti-static bag.
+STEPS:1.Prepare your workspace: Choose a clean, well-lit, and static-free area to work in. Place the motherboard on a non-conductive surface like its anti-static bag.
 
 2.Install the CPU (Central Processing Unit): Align the CPU with the socket, ensuring the notches match.Gently place the CPU into the socket without applying any force.
 
